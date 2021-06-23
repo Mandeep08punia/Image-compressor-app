@@ -41,7 +41,7 @@ app.post('/',upload.single('image'),(req,res,next)=>{
         ext='png'
     }
     res.render('image.ejs',{url:file.path,name:file.filename,ext:ext})
-
+    
 })
 
 
