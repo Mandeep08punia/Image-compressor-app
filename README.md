@@ -1,1 +1,1 @@
-# Image Compressor and Converter (for jpeg and png)
+# Image Compressor  (for jpeg and png)
